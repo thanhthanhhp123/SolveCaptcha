@@ -1,0 +1,12 @@
+names:
+- icon
+nc: 1
+roboflow:
+  license: Private
+  project: cloneproject
+  url: https://app.roboflow.com/cay-0gvyl/cloneproject/7
+  version: 7
+  workspace: cay-0gvyl
+test: ../test/images
+train: ../train/images
+val: ../valid/images
